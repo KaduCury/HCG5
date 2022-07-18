@@ -19,8 +19,8 @@
   },
   "image#deal1": {
     "props": {
-      "src": "https://storecomponents.vteximg.com.br/arquivos/box.png",
-      "maxHeight": "24px"
+      "src": "assets/imgs/icones/icones/novidades.png",
+      "maxHeight": "60px"
     }
   },
   "rich-text#deal1": {
@@ -37,8 +37,8 @@
   },
   "image#deal2": {
     "props": {
-      "src": "https://storecomponents.vteximg.com.br/arquivos/delivery-fast.png",
-      "maxHeight": "24px"
+      "src": "assets/imgs/icones/icones/mais-vendidos.png",
+      "maxHeight": "60px"
     }
   },
   "rich-text#deal2": {
@@ -55,8 +55,8 @@
   },
   "image#deal3": {
     "props": {
-      "src": "https://storecomponents.vteximg.com.br/arquivos/store.png",
-      "maxHeight": "24px"
+      "src": "assets/imgs/icones/icones/promocoes.png",
+      "maxHeight": "60px"
     }
   },
   "rich-text#deal3": {
@@ -73,8 +73,8 @@
   },
   "image#deal4": {
     "props": {
-      "src": "https://storecomponents.vteximg.com.br/arquivos/coupon.png",
-      "maxHeight": "24px"
+      "src": "assets/imgs/icones/icones/bee-clube.png",
+      "maxHeight": "60px"
     }
   },
   "rich-text#deal4": {

@@ -45,7 +45,8 @@
       "flex-layout.col#spacer",
       "search-bar",
       "login",
-      "login",  //futuro mostrador de pontuação de fidelidade
+      //futuro mostrador de pontuação de fidelidade
+      "locale-switcher",
       "minicart.v2"
     ]
   },
@@ -88,7 +89,8 @@
       "logo#mobile",
       "flex-layout.col#spacer",
       "login",
-      "login",  //futuro mostrador de pontuação de fidelidade 
+      //futuro mostrador de pontuação de fidelidade/contador 
+      "locale-switcher",
       "minicart.v2"
     ],
     "props": {
